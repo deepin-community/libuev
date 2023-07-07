@@ -1,5 +1,13 @@
-template-repository (1.0-1) unstable; urgency=medium
+libuev (2.4.0-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release
+  * Mark as linux-only (Closes: #967948)
+  * Bump Standards-Version to 4.6.0
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Yangfl <mmyangfl@gmail.com>  Sun, 23 Jan 2022 12:50:43 +0800
+
+libuev (2.3.1-1) unstable; urgency=medium
+
+  * Initial Release
+
+ -- Yangfl <mmyangfl@gmail.com>  Wed, 22 Jul 2020 12:50:50 +0800
